@@ -1,2 +1,1 @@
-# Tindog
-first Bootsrap website for yusuf
+TinDog Starting Files
