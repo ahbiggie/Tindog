@@ -20,6 +20,7 @@ p {
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
+  color: #fff;
 }
 
 .section-heading{
@@ -70,11 +71,11 @@ p {
 .download-button {
   margin: 5% 3% 5% 0;
 }
-
+#title {
+  text-align: left;
+}
 #title .container-fluid {
-  padding: 3% 15% 7%; 
-   text-align: left;
-
+  padding: 3% 15% 7%;
 }
 /* TITLE IMAGE */
 .title-image {
